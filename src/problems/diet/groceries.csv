@@ -1,0 +1,28 @@
+Items,Carbohydrates,Protein,Fat,Calories,Serving,Cost,Cat,Description
+Apple,15,0,0,63,1 apple,0.220,Integer,Great Value Apple
+Beer,7,1,0,110,12oz,0.733,Integer,Budlight 30 Pack
+Bread,14,3,1,70,1 slice,0.060,Integer,Great Value Wheat Bread
+Broccoli,4,1,0,25,3oz=1cup,0.270,Integer,Great Value Frozen Broccoli
+Brown_Rice,140,16,6,640,180g=1cup,0.270,Continuous,Great Value Brown Rice
+Cheese,1,7,9,111,1oz,0.270,Integer,Great Value Mild Shredded Cheddar
+Chicken,0,19,8,150,4oz,0.770,Integer,Costco Chicken Thighs
+Coconut_Oil,0,0,14,120,1tbsp,0.100,Integer,Costco Coconut Oil
+Coke,0,0,0,0,12oz,0.360,Integer,Coke Zero
+Corn,11,2,1,60,4oz=1/2cup,0.360,Integer,Great Value Corn
+Eggs,0,6,5,70,1 egg,0.130,Integer,Great Value 60 Count Crate
+Elbow_Pasta,41,7,1,200,1/2cup dry,0.109,Continuous,"Great Value Elbow Macaroni, 5lb x 2"
+Greek_Yogurt,7,17,0,100,2/3cup=170g,0.756,Continuous,"Great Value Plain Greek Nonfat Yogurt, 32oz"
+Green_Beans,3,1,0,20,121g=1/2cup,0.380,Integer,Great Value Green Beans
+Ground_Beef,0,22,14,210,4oz,1.000,Integer,Great Value Ground Beef
+Half_and_Half,1,1,3.5,40,2 Tbsp,0.062,Integer,"Great Value Ultra-Pasteurized, Grade A, Homogenized Half and Half, 0.5 Gallon, 64 Oz"
+Mayonnaise,0,0,11,100,1Tbsp=13g,0.031,Continuous,"(3 Pack) Great Value Real Mayonnaise, 30 fl oz"
+Mixed_Nuts,5,6,15,170,1oz,0.430,Integer,Great Value Mixed Nuts
+Oats,27,5,3,150,1/2cup=40g,0.083,Continuous,"Great Value Old Fashioned Oats, 42oz"
+Orange,15,1,0,62,1 orange,0.880,Integer,Jimmy Dean Maple
+Pasta_Sauce,12,2,2,70,1/2cup=4oz,0.235,Continuous,Great Value Chunky Tomato Garlic & Onion
+Refried_Beans,18,6,3,120,4oz=1/2cup,0.240,Integer,Rosarita Traditional Refried Beans
+Rolls,28,5,1.5,150,1 roll,0.248,Integer,Hard Rolls-12 ct Walmart Bakery
+Russet_Potato,26,3,0,110,1 medium,0.330,Integer,Generic (need data)
+Sausage,2,9,19,215,2 oz,0.500,Integer,Great Value
+Tuna,0,10,0.5,45,2oz=1/4cup,0.320,Integer,"(8 Cans) Great Value Chunk Light Tuna in Water, 5oz"
+Whey,2,24,1,110,1 scoop,0.750,Integer,Costco Optimum Nutrition
