@@ -15,7 +15,7 @@ def main():
     A=np.array([[2,1,1,0,1,0,0,180],[1,3,2,0,0,1,0,300],[2,1,2,0,0,0,1,240],[-6,-5,-4,1,0,0,0,0]])
     M=sp.Matrix(A)
     #print np.dot(A.T,A)
-    print M.rref()
+    #print M.rref()
 
 if __name__ == "__main__":
     main()
